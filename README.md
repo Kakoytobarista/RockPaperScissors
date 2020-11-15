@@ -15,11 +15,7 @@ $ https://github.com/Kakoytobarista/RockPaperScissors.git
 $ cd RockPaperScissors
 ```
 
-2. Install the dependencies
-```sh
-$ pip install -r requirements.txt
-````
 
-3. Play the game with your computer!
+2. Play the game with your computer!
 ```sh
 $ python3 rock-paper-scissors.py run
